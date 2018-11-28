@@ -396,7 +396,7 @@ input:checked + .slider:before {
 	position: relative;
 }
 
-img[src="yurimi.jpg"]{
+img[src="assets/imgs/yurimi.jpg"]{
 	width: 168px;
 	height: 94px;
 	display: inline-block;
